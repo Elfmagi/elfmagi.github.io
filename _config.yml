@@ -1,0 +1,8 @@
+title: Elfmagi.GitHub.io
+description: 
+google_analytics: UA-33024233-3
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
